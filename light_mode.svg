@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="850px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="850" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -9,50 +9,48 @@ font-display: swap;
 size-adjust: 109%;
 }
 .key {fill: #AE75DA;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
-pad {opacity: 0.1;}
 </style>
-<rect width="1200px" height="850px" fill="#161b22" rx="15"/>
-
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                                                   </tspan>
-<tspan x="15" y="50">           ≈≈≈≈░░˘˘˘˘˘˘˘˘˘                          </tspan>
-<tspan x="15" y="70">          ∿∿∿~~=∿░░░∿∿∿∿∿~˘˘˘˘˘˘˘˘                  </tspan>
-<tspan x="15" y="90">        ∿≈~~=~∿∿░░░░∿~░░░∿∿∿~∿░░∿=∿˘˘˘∿∿            </tspan>
-<tspan x="15" y="110">     ˘░~∿≈∿∿∿∿≈∿∿░∿∿░░≈░∿∿∿░∿░≈≈∿≈░≈░░░∿∿˘         </tspan>
-<tspan x="15" y="130">    ˘∿∿∿∿∿∿∿∿∿∿∿~∿░░░░░≈░░░≈≈≈░░≈░░≈░░░░∿~         </tspan>
-<tspan x="15" y="150">     ∿∿░░░░░∿░≈░░∿∿░░░░░░░░░░░░░░░░░░░░░░≈˘        </tspan>
-<tspan x="15" y="170">    ˘░░░≈∿∿░░≈░░░░░░░░░░░░░░░░░░░░░░░░≈░░░˘        </tspan>
-<tspan x="15" y="190">     ░░░░░░≈≈≈≈░░░░░░░░░░░░░░░░░░░░≈≈≈≈░░░         </tspan>
-<tspan x="15" y="210">    ˘░≈≈≈≈░░░░≈░░░░░░░░░░░░░░░░░∿∿∿░≈≈≈≈≈░         </tspan>
-<tspan x="15" y="230">    ˘≈≈░░≈░░░░▓▓▓▓▓▓▓░░░░░░░▓▓▓∿∿∿∿∿▓░░≈░░         </tspan>
-<tspan x="15" y="250">    ˘░≈≈░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░         </tspan>
-<tspan x="15" y="270">    ˘░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░         </tspan>
-<tspan x="15" y="290">     ˘░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░˘        </tspan>
-<tspan x="15" y="310">       ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░           </tspan>
-<tspan x="15" y="330">       ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░            </tspan>
-<tspan x="15" y="350">      ██▓▓▓▓▓░░░░░░░░░▓▓░░░░░░░░░░▓▓▓░▒            </tspan>
-<tspan x="15" y="370">     ███▓▓▓▓▓▓▓▓░░░░▓▓▓▓▓▓▓░░░░▓▓▓▓▓▓██            </tspan>
-<tspan x="15" y="390">     ███▓▓▓▓▓▓▓▓░░░░▓▓▓▓▓▓▓░░░░▓▓▓▓▓▓██            </tspan>
-<tspan x="15" y="410">     ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█             </tspan>
-<tspan x="15" y="430">     ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             </tspan>
-<tspan x="15" y="450">     ███▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓             </tspan>
-<tspan x="15" y="470">       █▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              </tspan>
-<tspan x="15" y="490">        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              </tspan>
-<tspan x="15" y="510">         ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░▓▓▓▓▓▓▓               </tspan>
-<tspan x="15" y="530">         ░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               </tspan>
-<tspan x="15" y="550">         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 </tspan>
-<tspan x="15" y="570">       ░░░▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  </tspan>
-<tspan x="15" y="590">    ▓█▒░░░▓▓▓░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  </tspan>
-<tspan x="15" y="610">█████▒█░░░▓▓▓▓▓▓░░░░░░░░░░░░░░░▒                   </tspan>
-<tspan x="15" y="630">███▓▓▓███░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░█                  </tspan>
-<tspan x="15" y="650">█▓▓▓▒▒▒▓█░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░███▓▓               </tspan>
-<tspan x="15" y="670">▓█▓▓▓▒▒▒▓██░░░░░░▓▓▓▓▓▓▓▓▓▓▓░███▓▓███▒             </tspan>
-<tspan x="15" y="690">▓▓▓▓▒▒▒▒▓▓▓▓█████░░░░░░░░░░███▒▓▓▓▓█████▓          </tspan>
+<rect width="1200px" height="850px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#30363d" class="ascii">
+<tspan x="15" y="30">                                                    </tspan>
+<tspan x="15" y="50">           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓˘                          </tspan>
+<tspan x="15" y="70">          ▓▓▓███▓███▓▓▓▓▓████████˘                  </tspan>
+<tspan x="15" y="90">        ▓██████▓▓████▓███▓▓▓█▓██▓▒▓▓▓▓▓▓            </tspan>
+<tspan x="15" y="110">     ˘█▓▓█▓▓▓▓█▓▓█▓▓███████▓███▓█████▓▓▓▓          </tspan>
+<tspan x="15" y="130">     ˘██▓▓▓▓▓▓████████████████████████████         </tspan>
+<tspan x="15" y="150">     ███▓▓▓▓▓▓████████████████████████████˘        </tspan>
+<tspan x="15" y="170">    ˘███▓▓▓▓██████████████████████████████˘        </tspan>
+<tspan x="15" y="190">     █████████████████████████████████████         </tspan>
+<tspan x="15" y="210">    ˘█████████████████████████████████████         </tspan>
+<tspan x="15" y="230">    ˘█████████░░░░░░░███████░░░█████░█████         </tspan>
+<tspan x="15" y="250">    ˘███████░░░░░░░░░░░░░░░░░░░░░░░░░█████         </tspan>
+<tspan x="15" y="270">    ˘█████░░░░░░░░░░░░░░░░░░░░░░░░░░░█████         </tspan>
+<tspan x="15" y="290">     ˘████░░░░░░░░░░░░░░░░░░░░░░░░░░░████˘        </tspan>
+<tspan x="15" y="310">       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░███           </tspan>
+<tspan x="15" y="330">       █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██            </tspan>
+<tspan x="15" y="350">      ▒▒░░░░░█████████░░██████████░░░█▒            </tspan>
+<tspan x="15" y="370">     ▒▒▒░░░░░░░░████░░░░░░░████░░░░░░▒▒            </tspan>
+<tspan x="15" y="390">     ▒▒▒░░░░░░░░████░░░░░░░████░░░░░░▒▒            </tspan>
+<tspan x="15" y="410">     ▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒             </tspan>
+<tspan x="15" y="430">     ▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░             </tspan>
+<tspan x="15" y="450">     ▒▒▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░             </tspan>
+<tspan x="15" y="470">       ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░              </tspan>
+<tspan x="15" y="490">        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░              </tspan>
+<tspan x="15" y="510">         ░░░░░░░░░███████████░░░░░░░               </tspan>
+<tspan x="15" y="530">         █░░░░░░░░░░░░░░░░░░░░░░░░░░               </tspan>
+<tspan x="15" y="550">        █▓██░░░░░░░░░░░░░░░░░░░░░░                 </tspan>
+<tspan x="15" y="570">      ███▓░░█░░░░░░░░░░░░░░░░░░░░                  </tspan>
+<tspan x="15" y="590">    ▓█▒█▓▒░░░██░░░░░░░░░░░░░░░░█░                  </tspan>
+<tspan x="15" y="610">█████▒█▒▒▒░░░░░░███████████████▒                   </tspan>
+<tspan x="15" y="630">███▓▓▓███▒░░░░░░░░░░░░░▒▒▒▒▒▒░░░█                  </tspan>
+<tspan x="15" y="650">█▓▓▓▒▒▒▓█▒░░░░░░░░░░░░░▒▒▒▒▒▒▒░███▓▓               </tspan>
+<tspan x="15" y="670">▓█▓▓▓▒▒▒▓███░░░░░░░░░░░▒▒░▒▒▒███▓▓███▒             </tspan>
+<tspan x="15" y="690">▓▓▓▓▒▒▒▒▓▓▓▓█████░░░░░░░░░████▒▓▓▓▓█████▓          </tspan>
 <tspan x="15" y="710">▓▓▓▓▒▒▒▒▓▓▓▓▓▓▓▓███████████▓▒▒▒▒▓▓▓▓██████▓        </tspan>
 <tspan x="15" y="730">▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓▓▓▓▓████████▓     </tspan>
 <tspan x="15" y="750">▓▓▓▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▓▓▓▓██████████▓   </tspan>
@@ -61,33 +59,31 @@ pad {opacity: 0.1;}
 <tspan x="15" y="810">▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓█████████</tspan>
 </text>
 
-
 <circle cx="948" cy="74" r="8" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.6"/>
 <circle cx="948" cy="74" r="4" fill="#22c55e">
   <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
 </circle>
 
-
-<text x="550" y="50" fill="#c9d1d9">
-<tspan x="550" y="50">github@mzafarm</tspan> -—————————————————————————————————————————-—-
+<text x="390" y="30" fill="#24292f">
+<tspan x="550" y="50">github@XavierRicard</tspan> -—————————————————————————————————————————-—-
 <tspan x="550" y="80" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">    Running (stable)</tspan>
-<tspan x="550" y="110" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Muhammed Zafar M M</tspan>
-<tspan x="550" y="140" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 4 months, 23 days</tspan>
-<tspan x="550" y="170" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Mahe, IN (local)</tspan>
+<tspan x="550" y="110" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Xavier Ricard M M</tspan>
+<tspan x="550" y="140" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .......................... </tspan><tspan class="value" id="age_data">21 years</tspan>
+<tspan x="550" y="170" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Québec, CA (local)</tspan>
 <tspan x="550" y="200" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Software Developer</tspan>
-<tspan x="550" y="230" class="cc">. </tspan><tspan class="key">Environment</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">VSCode, Zsh</tspan>
-<tspan x="550" y="260" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Git, Docker, Figma</tspan>
-<tspan x="550" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Python, JavaScript, SQL, C#</tspan>
-<tspan x="550" y="320" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">English, Malayalam, Hindi</tspan>
-<tspan x="550" y="350" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">Full Stack, AI, Tooling</tspan>
-<tspan x="550" y="380" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Databases, APIs, CLIs</tspan>
-<tspan x="550" y="410" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Building, Learning, Tinkering</tspan>
+<tspan x="550" y="230" class="cc">. </tspan><tspan class="key">Environment</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">VSCode</tspan>
+<tspan x="550" y="260" class="cc">. </tspan><tspan class="key">Tools</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Git</tspan>
+<tspan x="550" y="290" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">PHP, JavaScript, SQL, C#</tspan>
+<tspan x="550" y="320" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">English, French</tspan>
+<tspan x="550" y="350" class="cc">. </tspan><tspan class="key">Focus</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">Full Stack</tspan>
+<tspan x="550" y="380" class="cc">. </tspan><tspan class="key">Interests</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Databases, APIs, Game Development</tspan>
+<tspan x="550" y="410" class="cc">. </tspan><tspan class="key">Hobbies</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Building, Learning</tspan>
 <tspan x="550" y="440">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="550" y="470" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> ................................. </tspan><a href="https://time.is/IST" target="_blank"><tspan class="value">IST (UTC+5:30)</tspan></a>
-<tspan x="550" y="500" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................ </tspan><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=muhammedzafar.mm@gmail.com" target="_blank"><tspan class="value">muhammedzafar.mm@gmail.com</tspan></a>
+<tspan x="550" y="470" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> ................................. </tspan><a href="https://time.is/IST" target="_blank"><tspan class="value">UTC−5</tspan></a>
+<tspan x="550" y="500" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ........................ </tspan><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=xavier.2@hotmail.ca" target="_blank"><tspan class="value">xavier.2@hotmail.ca</tspan></a>
 <tspan x="550" y="530" class="cc">. </tspan><tspan class="key">Documentation</tspan>:<tspan class="cc"> ............... </tspan><a href="https://mzafarm.github.io/portfolio" target="_blank"><tspan class="value">mzafarm.github.io/portfolio</tspan></a>
-<tspan x="550" y="560" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................... </tspan><a href="https://www.linkedin.com/in/muhammed-zafar-mm/" target="_blank"><tspan class="value">in/muhammed-zafar-mm</tspan></a>
-<tspan x="550" y="590" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">_z.f.r._</tspan>
+<tspan x="550" y="560" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................... </tspan><a href="https://www.linkedin.com/in/xavierRicard/" target="_blank"><tspan class="value">in/XavierRicard</tspan></a>
+<tspan x="550" y="590" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Xav</tspan>
 <tspan x="550" y="620">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
 <tspan x="550" y="650" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">45</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">85</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">104</tspan>
 <tspan x="550" y="680" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">5,589</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">50</tspan>
@@ -95,10 +91,10 @@ pad {opacity: 0.1;}
 <tspan x="550" y="740">    —————————————————————————————————————————————————————-—-</tspan>
 
 <tspan x="725" y="770" class="cc">
-// And that man will have nothing except,
+// OG : Andrew6rant
+// Inspo : MZaFaRM
 </tspan>
 <tspan x="759" y="800" class="cc">
-// what he strives for. - Quran 53:39
 </tspan>
 </text>
 </svg>
